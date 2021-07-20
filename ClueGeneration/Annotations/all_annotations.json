@@ -1,0 +1,2207 @@
+{
+    "68": {
+        "image_num": 68,
+        "literal_annotations": [
+            "ghosts",
+            "plant",
+            "happy",
+            "sad",
+            "surprised",
+            "awe"
+        ],
+        "thematic_annotations": [
+            "growth",
+            "life",
+            "death"
+        ]
+    },
+    "170": {
+        "image_num": 170,
+        "literal_annotations": [
+            "girl",
+            "meat",
+            "dress",
+            "doll",
+            "garden"
+        ],
+        "thematic_annotations": [
+            "spooky",
+            "horror",
+            "uncanny"
+        ]
+    },
+    "73": {
+        "image_num": 73,
+        "literal_annotations": [
+            "birds",
+            "woman",
+            "butterfly",
+            "pocket-watch"
+        ],
+        "thematic_annotations": [
+            "looking in different directions"
+        ]
+    },
+    "185": {
+        "image_num": 185,
+        "literal_annotations": [
+            "night"
+        ],
+        "thematic_annotations": [
+            "night"
+        ]
+    },
+    "80": {
+        "image_num": 80,
+        "literal_annotations": [
+            "man",
+            "hat",
+            "leaf",
+            "fruit"
+        ],
+        "thematic_annotations": [
+            "discovery",
+            "curiosity"
+        ]
+    },
+    "78": {
+        "image_num": 78,
+        "literal_annotations": [
+            "library",
+            "cat",
+            "girl",
+            "books",
+            "shelves",
+            "lighting"
+        ],
+        "thematic_annotations": [
+            "wonder",
+            "exploration",
+            "hope",
+            "novelty"
+        ]
+    },
+    "115": {
+        "image_num": 115,
+        "literal_annotations": [
+            "giraffe",
+            "skull",
+            "collar",
+            "books",
+            "quill",
+            "feather",
+            "bottle",
+            "pen",
+            "statue",
+            "window",
+            "lion",
+            "king",
+            "crown",
+            "window",
+            "giraffe skull"
+        ],
+        "thematic_annotations": [
+            "poor Yurick",
+            "writer's block",
+            "self reflection",
+            "contemplating death"
+        ]
+    },
+    "93": {
+        "image_num": 93,
+        "literal_annotations": [
+            "Old Lady",
+            "Pet",
+            "Forest",
+            "Dress"
+        ],
+        "thematic_annotations": [
+            "Petting",
+            "Feeding",
+            "Love",
+            "Warmth"
+        ]
+    },
+    "29": {
+        "image_num": 29,
+        "literal_annotations": [
+            "ballerina on a tight rope",
+            "lightning",
+            "storm",
+            "buildings"
+        ],
+        "thematic_annotations": [
+            "danger",
+            "bravery",
+            "balance"
+        ]
+    },
+    "188": {
+        "image_num": 188,
+        "literal_annotations": [
+            "octopus",
+            "tentacles",
+            "light",
+            "lightbulb",
+            "wallpaper",
+            "door",
+            "doorway",
+            "little girl",
+            "red dress"
+        ],
+        "thematic_annotations": [
+            "the summoning",
+            "opposing forces",
+            "zoological nightmare",
+            "Dorothy",
+            "Cthulu reigns"
+        ]
+    },
+    "180": {
+        "image_num": 180,
+        "literal_annotations": [
+            "Boat",
+            "Water",
+            "Sky",
+            "Wallpaper"
+        ],
+        "thematic_annotations": [
+            "Claustrophobic",
+            "Pretend play",
+            "Cold"
+        ]
+    },
+    "157": {
+        "image_num": 157,
+        "literal_annotations": [
+            "owls",
+            "owlery",
+            "magic",
+            "hogwarts",
+            "stairs",
+            "hedwig",
+            "harry potter"
+        ],
+        "thematic_annotations": [
+            "magic"
+        ]
+    },
+    "45": {
+        "image_num": 45,
+        "literal_annotations": [
+            "woman",
+            "boat",
+            "oar",
+            "ocean",
+            "city",
+            "ruins",
+            "flowers",
+            "lantern"
+        ],
+        "thematic_annotations": [
+            "loss",
+            "memory",
+            "sadness",
+            "journey"
+        ]
+    },
+    "203": {
+        "image_num": 203,
+        "literal_annotations": [
+            "sitting girl",
+            "dress",
+            "buildings",
+            "roofs",
+            "shingles",
+            "orbs",
+            "floating objects",
+            "boots",
+            "blonde"
+        ],
+        "thematic_annotations": [
+            "green",
+            "plants",
+            "growth",
+            "flight",
+            "imagination",
+            "ethereal",
+            "island",
+            "fantasy",
+            "fairy tale"
+        ]
+    },
+    "200": {
+        "image_num": 200,
+        "literal_annotations": [
+            "elf",
+            "rain",
+            "elf sitting",
+            "umbrella",
+            "storm",
+            "path",
+            "trail"
+        ],
+        "thematic_annotations": [
+            "journey",
+            "vulnerable",
+            "relaxed",
+            ""
+        ]
+    },
+    "135": {
+        "image_num": 135,
+        "literal_annotations": [
+            "porcupine",
+            "bow"
+        ],
+        "thematic_annotations": [
+            "archery"
+        ]
+    },
+    "30": {
+        "image_num": 30,
+        "literal_annotations": [
+            "foods",
+            "spices",
+            "chocolate",
+            "fruits",
+            "sink",
+            "drawers",
+            "kitchen"
+        ],
+        "thematic_annotations": [
+            "balance",
+            "slantedness"
+        ]
+    },
+    "102": {
+        "image_num": 102,
+        "literal_annotations": [
+            "Train",
+            "Boy",
+            "Conductor",
+            "People",
+            "Toy",
+            "Rail"
+        ],
+        "thematic_annotations": [
+            "Naughty",
+            "Bad Temper",
+            "Worried",
+            "Stuck"
+        ]
+    },
+    "31": {
+        "image_num": 31,
+        "literal_annotations": [
+            "watermelon",
+            "yarn",
+            "ball",
+            "claws",
+            "shadow",
+            "paw",
+            "seeds",
+            "rind"
+        ],
+        "thematic_annotations": [
+            "hungry",
+            "play time",
+            "vengance",
+            "melon baller",
+            "haz stripes"
+        ]
+    },
+    "6": {
+        "image_num": 6,
+        "literal_annotations": [
+            "Books",
+            "Fairy",
+            "Little Girl"
+        ],
+        "thematic_annotations": [
+            "Fly",
+            "Magic",
+            "Knowledge",
+            "Story"
+        ]
+    },
+    "183": {
+        "image_num": 183,
+        "literal_annotations": [
+            "prison",
+            "face",
+            "girl",
+            "princess",
+            "sky"
+        ],
+        "thematic_annotations": [
+            "drop the mask",
+            "show inner-self",
+            "inner prison",
+            "open up"
+        ]
+    },
+    "226": {
+        "image_num": 226,
+        "literal_annotations": [
+            "painting",
+            "mona lisa",
+            "smile"
+        ],
+        "thematic_annotations": [
+            "scary",
+            "repainting"
+        ]
+    },
+    "40": {
+        "image_num": 40,
+        "literal_annotations": [
+            "Light",
+            "Big Bag",
+            "Elf",
+            "Plant"
+        ],
+        "thematic_annotations": [
+            "Magic",
+            "Interaction",
+            "Spiritual"
+        ]
+    },
+    "196": {
+        "image_num": 196,
+        "literal_annotations": [
+            "Bull",
+            "Baby"
+        ],
+        "thematic_annotations": [
+            "Care",
+            "Warmth",
+            "Anthropomorphic"
+        ]
+    },
+    "25": {
+        "image_num": 25,
+        "literal_annotations": [
+            "Blind Girl",
+            "Gramophone"
+        ],
+        "thematic_annotations": [
+            "Hide and seek",
+            "Breezy",
+            "Obstacles"
+        ]
+    },
+    "16": {
+        "image_num": 16,
+        "literal_annotations": [
+            "Old man",
+            "Prison",
+            "Bird Singing"
+        ],
+        "thematic_annotations": [
+            "Metaphoric",
+            "Thoughtful",
+            "Warm",
+            "Liberation"
+        ]
+    },
+    "28": {
+        "image_num": 28,
+        "literal_annotations": [
+            "mother",
+            "son",
+            "park bench",
+            "studying",
+            "moon",
+            "fairies",
+            "laptop"
+        ],
+        "thematic_annotations": [
+            "childhood",
+            "education",
+            "help",
+            "parenting"
+        ]
+    },
+    "165": {
+        "image_num": 165,
+        "literal_annotations": [
+            "woman",
+            "dress",
+            "bars",
+            "curtain",
+            "face",
+            "eye",
+            "hair",
+            "sky",
+            "hand",
+            "pulling curtain",
+            "chain",
+            "woman",
+            "trapped",
+            "prisoner"
+        ],
+        "thematic_annotations": [
+            "hiding",
+            "concealement",
+            "mask",
+            "chained",
+            "acting",
+            "performance",
+            "faking",
+            "face"
+        ]
+    },
+    "197": {
+        "image_num": 197,
+        "literal_annotations": [
+            "beard",
+            "cloud",
+            "cloud beard",
+            "top hat",
+            "man",
+            "cane",
+            "formalwear",
+            "houses",
+            "circle",
+            "road",
+            "folder"
+        ],
+        "thematic_annotations": [
+            "community",
+            "large",
+            "downtown",
+            "distinguished",
+            "head in the clouds"
+        ]
+    },
+    "105": {
+        "image_num": 105,
+        "literal_annotations": [
+            "leaves",
+            "fox",
+            "person",
+            "city",
+            "shop",
+            "furniture",
+            "trashcan",
+            "alley",
+            "wind"
+        ],
+        "thematic_annotations": [
+            "blow",
+            "entrance",
+            "invasion",
+            "excitement",
+            "autumn",
+            "change season",
+            "seasons",
+            "awakening"
+        ]
+    },
+    "101": {
+        "image_num": 101,
+        "literal_annotations": [
+            "ladder",
+            "shadow",
+            "twists"
+        ],
+        "thematic_annotations": [
+            "height",
+            "twisting",
+            "dangerous",
+            "adventure",
+            "tall",
+            "unwieldy",
+            "hanging",
+            "climb",
+            "ascent"
+        ]
+    },
+    "75": {
+        "image_num": 75,
+        "literal_annotations": [
+            "rain"
+        ],
+        "thematic_annotations": [
+            "happy"
+        ]
+    },
+    "81": {
+        "image_num": 81,
+        "literal_annotations": [
+            "chess"
+        ],
+        "thematic_annotations": [
+            "inception"
+        ]
+    },
+    "86": {
+        "image_num": 86,
+        "literal_annotations": [
+            "Buildings",
+            "Balconies",
+            "Car",
+            "Rain"
+        ],
+        "thematic_annotations": [
+            "Autumn",
+            "Love",
+            "Gloomy",
+            "Miss"
+        ]
+    },
+    "201": {
+        "image_num": 201,
+        "literal_annotations": [
+            "woman",
+            "dress",
+            "red",
+            "red dress",
+            "curtains",
+            "red curtains",
+            "string",
+            "puppet",
+            "man",
+            "painter",
+            "canvas",
+            "artist",
+            "window",
+            "frame",
+            "palette",
+            "paintbrush",
+            "fabric"
+        ],
+        "thematic_annotations": [
+            "theatre",
+            "theater",
+            "performance",
+            "vivid",
+            "pose",
+            "portrait",
+            "curtain",
+            "concealment",
+            "sexy",
+            "inviting",
+            "strap"
+        ]
+    },
+    "144": {
+        "image_num": 144,
+        "literal_annotations": [
+            "chess",
+            "tower",
+            "windows",
+            "clouds"
+        ],
+        "thematic_annotations": [
+            "sleepwalking",
+            "inevitability",
+            "constraints"
+        ]
+    },
+    "35": {
+        "image_num": 35,
+        "literal_annotations": [
+            "Boy",
+            "Basket",
+            "Hook"
+        ],
+        "thematic_annotations": [
+            "Sleep",
+            "Dangerous",
+            "Unattended"
+        ]
+    },
+    "227": {
+        "image_num": 227,
+        "literal_annotations": [
+            "light"
+        ],
+        "thematic_annotations": [
+            "meditation"
+        ]
+    },
+    "74": {
+        "image_num": 74,
+        "literal_annotations": [
+            "soldiers",
+            "cart",
+            "toys",
+            "red carpet",
+            "wagon",
+            "shadows",
+            "pulling"
+        ],
+        "thematic_annotations": [
+            "king",
+            "ruler",
+            "owner",
+            "commander",
+            "imagination",
+            "king",
+            "royalty",
+            "play",
+            "childhood"
+        ]
+    },
+    "107": {
+        "image_num": 107,
+        "literal_annotations": [
+            "silhouette",
+            "person",
+            "traffic light",
+            "yellow light",
+            "forest",
+            "lamppost",
+            "tea",
+            "tea set",
+            "table"
+        ],
+        "thematic_annotations": [
+            "waiting",
+            "pending",
+            "liminal"
+        ]
+    },
+    "128": {
+        "image_num": 128,
+        "literal_annotations": [
+            "magnifying glass"
+        ],
+        "thematic_annotations": [
+            "science"
+        ]
+    },
+    "26": {
+        "image_num": 26,
+        "literal_annotations": [
+            "boy flying",
+            "boy holding a kit",
+            "two moons",
+            "night sky"
+        ],
+        "thematic_annotations": [
+            "escape",
+            "aspiration"
+        ]
+    },
+    "160": {
+        "image_num": 160,
+        "literal_annotations": [
+            "santa claus",
+            "man",
+            "book",
+            "cucumbers",
+            "city"
+        ],
+        "thematic_annotations": [
+            "rest",
+            "sunshine"
+        ]
+    },
+    "50": {
+        "image_num": 50,
+        "literal_annotations": [
+            "lollipop",
+            "bee",
+            "girl"
+        ],
+        "thematic_annotations": [
+            "running",
+            "scared",
+            "chased"
+        ]
+    },
+    "173": {
+        "image_num": 173,
+        "literal_annotations": [
+            "tiger",
+            "elephant",
+            "flower",
+            "grass",
+            "tail"
+        ],
+        "thematic_annotations": [
+            "animal",
+            "head swap",
+            "blossom"
+        ]
+    },
+    "122": {
+        "image_num": 122,
+        "literal_annotations": [
+            "man with moustache",
+            "green suit",
+            "playing card",
+            "slinky"
+        ],
+        "thematic_annotations": [
+            "magic trick",
+            "illusion",
+            "distraction"
+        ]
+    },
+    "11": {
+        "image_num": 11,
+        "literal_annotations": [
+            "person",
+            "reader",
+            "books",
+            "person sitting",
+            "person reading"
+        ],
+        "thematic_annotations": [
+            "thoughtful",
+            "preoccupied",
+            "enjoyment",
+            "bookworm",
+            "peace",
+            "relaxing"
+        ]
+    },
+    "120": {
+        "image_num": 120,
+        "literal_annotations": [
+            "home"
+        ],
+        "thematic_annotations": [
+            "underground"
+        ]
+    },
+    "145": {
+        "image_num": 145,
+        "literal_annotations": [
+            "bed",
+            "curtain",
+            "fish",
+            "ocean",
+            "underwater",
+            "jellyfish",
+            "seahorse",
+            "algae"
+        ],
+        "thematic_annotations": [
+            "dream",
+            "sleep",
+            "relaxation"
+        ]
+    },
+    "155": {
+        "image_num": 155,
+        "literal_annotations": [
+            "Old Ridinghood",
+            "Creepy Women"
+        ],
+        "thematic_annotations": [
+            "Scary",
+            "Spooky",
+            "Senior"
+        ]
+    },
+    "147": {
+        "image_num": 147,
+        "literal_annotations": [
+            "bird",
+            "book"
+        ],
+        "thematic_annotations": [
+            "flight"
+        ]
+    },
+    "167": {
+        "image_num": 167,
+        "literal_annotations": [
+            "smoking",
+            "bugs",
+            "wizard hat",
+            "female",
+            "unicorn",
+            "frog"
+        ],
+        "thematic_annotations": [
+            "metamorphosis",
+            "unnatural"
+        ]
+    },
+    "67": {
+        "image_num": 67,
+        "literal_annotations": [
+            "Monster Tree",
+            "Dead Bodies"
+        ],
+        "thematic_annotations": [
+            "Scary",
+            "Spooky",
+            "Dark",
+            "Horrific"
+        ]
+    },
+    "1": {
+        "image_num": 1,
+        "literal_annotations": [
+            "knights",
+            "mice",
+            "soldiers",
+            "mount",
+            "squirrel",
+            "government"
+        ],
+        "thematic_annotations": [
+            "loyalty",
+            "anthropomorphic",
+            "nature"
+        ]
+    },
+    "116": {
+        "image_num": 116,
+        "literal_annotations": [
+            "harp",
+            "face",
+            "profile",
+            "flower",
+            "clouds",
+            "sky",
+            "field",
+            "trees",
+            "string",
+            "wire"
+        ],
+        "thematic_annotations": [
+            "music",
+            "dream",
+            "grow",
+            "strings",
+            "hair"
+        ]
+    },
+    "22": {
+        "image_num": 22,
+        "literal_annotations": [
+            "Fishing",
+            "Man",
+            "Fish Planes"
+        ],
+        "thematic_annotations": [
+            "Cold",
+            "Surreal",
+            "Inverted"
+        ]
+    },
+    "178": {
+        "image_num": 178,
+        "literal_annotations": [
+            "ear",
+            "man",
+            "cello",
+            "windy",
+            "playing cello",
+            ""
+        ],
+        "thematic_annotations": [
+            "listening",
+            "music",
+            "passion"
+        ]
+    },
+    "129": {
+        "image_num": 129,
+        "literal_annotations": [
+            "Castle",
+            "Little Girl"
+        ],
+        "thematic_annotations": [
+            "Fantasy",
+            "Dream",
+            "Warm"
+        ]
+    },
+    "195": {
+        "image_num": 195,
+        "literal_annotations": [
+            "snake",
+            "apples",
+            "tree",
+            "eyes closed",
+            "asleep",
+            "supporting",
+            "hills",
+            "cloudy",
+            "dress"
+        ],
+        "thematic_annotations": [
+            "biblical",
+            "gloomy",
+            "commiseration"
+        ]
+    },
+    "133": {
+        "image_num": 133,
+        "literal_annotations": [
+            "books",
+            "butterfly",
+            "plants",
+            "window"
+        ],
+        "thematic_annotations": [
+            "learning",
+            "knowledge"
+        ]
+    },
+    "215": {
+        "image_num": 215,
+        "literal_annotations": [
+            "Trees",
+            "Legs",
+            "Birds",
+            "Ladders",
+            "Forest"
+        ],
+        "thematic_annotations": [
+            "Depressing",
+            "Evil",
+            "Nature"
+        ]
+    },
+    "10": {
+        "image_num": 10,
+        "literal_annotations": [
+            "wolf",
+            "sheep",
+            "puppet"
+        ],
+        "thematic_annotations": [
+            "bloody",
+            "red"
+        ]
+    },
+    "146": {
+        "image_num": 146,
+        "literal_annotations": [
+            "owl",
+            "rabbit",
+            "wolf",
+            "pig",
+            "judge",
+            "gavel",
+            "owl judge",
+            "perps",
+            "court",
+            "perp line-up"
+        ],
+        "thematic_annotations": [
+            "guilt",
+            "innocence",
+            "crime",
+            "justice",
+            "punishment",
+            "law",
+            "judgement"
+        ]
+    },
+    "100": {
+        "image_num": 100,
+        "literal_annotations": [
+            "sand",
+            "pyramid",
+            "bird head",
+            "man body",
+            "bed",
+            "chaise",
+            "beach",
+            "sandcastle",
+            "snake",
+            "desert"
+        ],
+        "thematic_annotations": [
+            "egypt",
+            "deity",
+            "god",
+            "glory",
+            "relax",
+            "play",
+            "power"
+        ]
+    },
+    "39": {
+        "image_num": 39,
+        "literal_annotations": [
+            "stack of books",
+            "books on shelves",
+            "floating feathers",
+            "sky light",
+            "library"
+        ],
+        "thematic_annotations": [
+            "imagination",
+            "flight",
+            "learning"
+        ]
+    },
+    "5": {
+        "image_num": 5,
+        "literal_annotations": [
+            "woman",
+            "boy",
+            "cabbage",
+            "floating",
+            "stars",
+            "plant",
+            "dress",
+            "hat",
+            "hair"
+        ],
+        "thematic_annotations": [
+            "sprinkle",
+            "fairy",
+            "plants",
+            "child",
+            "fairy tale",
+            "wonder"
+        ]
+    },
+    "91": {
+        "image_num": 91,
+        "literal_annotations": [
+            "bubbles",
+            "planets",
+            "start",
+            "person",
+            "hat",
+            "hills",
+            "flowers",
+            "sunset",
+            "trees",
+            "outdoor",
+            "nature",
+            "sack"
+        ],
+        "thematic_annotations": [
+            "evening",
+            "creativity",
+            "space",
+            "cosmos",
+            "nighttime",
+            "sundown",
+            "dusk",
+            "adventure",
+            "creation"
+        ]
+    },
+    "132": {
+        "image_num": 132,
+        "literal_annotations": [
+            "penguin",
+            "house cup",
+            "orange",
+            "nature",
+            "ocean",
+            "tree",
+            "sky"
+        ],
+        "thematic_annotations": [
+            "all the burden",
+            "sad",
+            "lost in my way home"
+        ]
+    },
+    "94": {
+        "image_num": 94,
+        "literal_annotations": [
+            "drawers",
+            "handles",
+            "chest",
+            "locks",
+            "clouds",
+            "waves",
+            "mountains",
+            "wood"
+        ],
+        "thematic_annotations": [
+            "elements",
+            "air",
+            "earth",
+            "water",
+            "fire"
+        ]
+    },
+    "176": {
+        "image_num": 176,
+        "literal_annotations": [
+            "home"
+        ],
+        "thematic_annotations": [
+            "concrete"
+        ]
+    },
+    "210": {
+        "image_num": 210,
+        "literal_annotations": [
+            "Little Girl",
+            "Cat",
+            "Giants",
+            "Forest"
+        ],
+        "thematic_annotations": [
+            "Vast",
+            "Spooky",
+            "Calm"
+        ]
+    },
+    "179": {
+        "image_num": 179,
+        "literal_annotations": [
+            "apple",
+            "tree",
+            "woman",
+            "person",
+            "nude",
+            "puzzle pieces",
+            "road",
+            "clouds",
+            "sky",
+            "orange",
+            "orchard",
+            "man",
+            "suit"
+        ],
+        "thematic_annotations": [
+            "large",
+            "big fruit",
+            "fruit",
+            "small people",
+            "winding",
+            "adventure",
+            "interest",
+            "dreamy",
+            "growth",
+            "imagination",
+            "inviting",
+            "fertile"
+        ]
+    },
+    "19": {
+        "image_num": 19,
+        "literal_annotations": [
+            "late night"
+        ],
+        "thematic_annotations": [
+            "diner"
+        ]
+    },
+    "114": {
+        "image_num": 114,
+        "literal_annotations": [
+            "lock"
+        ],
+        "thematic_annotations": [
+            "love"
+        ]
+    },
+    "223": {
+        "image_num": 223,
+        "literal_annotations": [
+            "lighthouse",
+            "man",
+            "whale",
+            "ocean"
+        ],
+        "thematic_annotations": [
+            "friendship",
+            "discovery"
+        ]
+    },
+    "79": {
+        "image_num": 79,
+        "literal_annotations": [
+            "woman",
+            "dress",
+            "scarf",
+            "water",
+            "shadow",
+            "silhouette",
+            "music",
+            "whistle",
+            "carry",
+            "heavy"
+        ],
+        "thematic_annotations": [
+            "imagination",
+            "escapism",
+            "dreams",
+            "alternate reality",
+            "hardship"
+        ]
+    },
+    "42": {
+        "image_num": 42,
+        "literal_annotations": [
+            "Robot Octopus",
+            "Robot",
+            "Submarine"
+        ],
+        "thematic_annotations": [
+            "Dark",
+            "Underwater",
+            "Cold"
+        ]
+    },
+    "121": {
+        "image_num": 121,
+        "literal_annotations": [
+            "keyhole",
+            "moon",
+            "shadow",
+            "clouds",
+            "grassy",
+            "dark",
+            "space",
+            "nature",
+            "girl",
+            "dress"
+        ],
+        "thematic_annotations": [
+            "longing",
+            "freedom",
+            "outside"
+        ]
+    },
+    "62": {
+        "image_num": 62,
+        "literal_annotations": [
+            "tree",
+            "girl",
+            "moon",
+            "night"
+        ],
+        "thematic_annotations": [
+            "darkness",
+            "the last tree alive"
+        ]
+    },
+    "69": {
+        "image_num": 69,
+        "literal_annotations": [
+            "smoking cigarette",
+            "hospital",
+            "hallway",
+            "holding IV"
+        ],
+        "thematic_annotations": [
+            "bad guy"
+        ]
+    },
+    "161": {
+        "image_num": 161,
+        "literal_annotations": [
+            "cubes",
+            "sphere",
+            "men",
+            "suits",
+            "businessmen",
+            "knife",
+            "shavings",
+            "pushing"
+        ],
+        "thematic_annotations": [
+            "cutting",
+            "whittling",
+            "carving",
+            "pushing",
+            "ease",
+            "difficulty",
+            "innovation",
+            "advancement",
+            "technology",
+            "wheel"
+        ]
+    },
+    "33": {
+        "image_num": 33,
+        "literal_annotations": [
+            "paper airplane",
+            "desk",
+            "child",
+            "school",
+            "classroom",
+            "children",
+            "paper",
+            "pencil",
+            "desk",
+            "books",
+            "bookshelf",
+            "car",
+            "toy"
+        ],
+        "thematic_annotations": [
+            "play",
+            "chaos",
+            "busy",
+            "misbehave",
+            "rowdy"
+        ]
+    },
+    "198": {
+        "image_num": 198,
+        "literal_annotations": [
+            "Big Bird",
+            "Sun",
+            "Houses",
+            "Man",
+            "Clock"
+        ],
+        "thematic_annotations": [
+            "Magic",
+            "Dream",
+            "Leader",
+            "Sky Castle"
+        ]
+    },
+    "37": {
+        "image_num": 37,
+        "literal_annotations": [
+            "man",
+            "man looking",
+            "tree",
+            "pot",
+            "dead tree",
+            ""
+        ],
+        "thematic_annotations": [
+            "conversation",
+            "understanding",
+            "curiosity",
+            ""
+        ]
+    },
+    "38": {
+        "image_num": 38,
+        "literal_annotations": [
+            "gun",
+            "smile",
+            "watchman",
+            "grin"
+        ],
+        "thematic_annotations": [
+            "creepy"
+        ]
+    },
+    "127": {
+        "image_num": 127,
+        "literal_annotations": [
+            "creepy",
+            "dark",
+            "wolf",
+            "door",
+            "stairway",
+            "sneaky"
+        ],
+        "thematic_annotations": [
+            "fear",
+            "ominous"
+        ]
+    },
+    "124": {
+        "image_num": 124,
+        "literal_annotations": [
+            "clown",
+            "frown",
+            "spotlight",
+            "mime"
+        ],
+        "thematic_annotations": [
+            "lonely silence",
+            "the performer",
+            "clowning around",
+            "showtime"
+        ]
+    },
+    "85": {
+        "image_num": 85,
+        "literal_annotations": [
+            "boy",
+            "girl",
+            "kids",
+            "cupcakes",
+            "houses",
+            "cupcake houses",
+            "candy cane"
+        ],
+        "thematic_annotations": [
+            "wonder",
+            "apprehension",
+            "sweet",
+            "sugar",
+            "unknown",
+            "solidarity",
+            "team"
+        ]
+    },
+    "131": {
+        "image_num": 131,
+        "literal_annotations": [
+            "goth",
+            "lamp",
+            "town",
+            "snowglobe"
+        ],
+        "thematic_annotations": [
+            "spooky",
+            "dark",
+            "gothic",
+            "sadness",
+            "isolation",
+            "hope"
+        ]
+    },
+    "112": {
+        "image_num": 112,
+        "literal_annotations": [
+            "father",
+            "birds",
+            "toucan",
+            "parrot",
+            "owl",
+            "branch",
+            "leaves",
+            "tree",
+            "sunlight",
+            "tie",
+            "suits",
+            "money",
+            "cash"
+        ],
+        "thematic_annotations": [
+            "fatherhood",
+            "protection",
+            "family",
+            "orphanage",
+            "aviary",
+            "full house",
+            "family business",
+            "investment security"
+        ]
+    },
+    "199": {
+        "image_num": 199,
+        "literal_annotations": [
+            "sitting man",
+            "accordion"
+        ],
+        "thematic_annotations": [
+            "music",
+            "abyss"
+        ]
+    },
+    "152": {
+        "image_num": 152,
+        "literal_annotations": [
+            "alone",
+            "underwater",
+            "ocean",
+            "reflection",
+            "light",
+            "bass",
+            "bow",
+            "hat",
+            "musician",
+            "music",
+            "performance",
+            "instrument",
+            "water",
+            "light",
+            "surface",
+            "bubbles"
+        ],
+        "thematic_annotations": [
+            "lonely subway",
+            "panhandler",
+            "no breath",
+            "notes only",
+            "air notes",
+            "lonely island"
+        ]
+    },
+    "41": {
+        "image_num": 41,
+        "literal_annotations": [
+            "car",
+            "kids",
+            "road"
+        ],
+        "thematic_annotations": [
+            "excitement",
+            "driving",
+            "fun",
+            "trip",
+            "wild"
+        ]
+    },
+    "205": {
+        "image_num": 205,
+        "literal_annotations": [
+            "snowman",
+            "chess",
+            "girl",
+            "rainbow",
+            "scarf",
+            "golf club",
+            "buttons",
+            "snow",
+            "crown",
+            "carrot",
+            "nose"
+        ],
+        "thematic_annotations": [
+            "demented Frosty",
+            "freezing Queen",
+            "king me",
+            "game over"
+        ]
+    },
+    "186": {
+        "image_num": 186,
+        "literal_annotations": [
+            "flying whale",
+            "floating houses",
+            "school of fish",
+            "people riding fish"
+        ],
+        "thematic_annotations": [
+            "fantasy",
+            "dream",
+            "joy"
+        ]
+    },
+    "139": {
+        "image_num": 139,
+        "literal_annotations": [
+            "ice",
+            "mouse",
+            "rock"
+        ],
+        "thematic_annotations": [
+            "cold",
+            "freezing",
+            "lost"
+        ]
+    },
+    "58": {
+        "image_num": 58,
+        "literal_annotations": [
+            "city",
+            "world",
+            "sky",
+            "cloud",
+            "New York"
+        ],
+        "thematic_annotations": [
+            "The world is falling"
+        ]
+    },
+    "88": {
+        "image_num": 88,
+        "literal_annotations": [
+            "shadow",
+            "man",
+            "beard",
+            "ponytail",
+            "bird",
+            "smokestack",
+            "umbrella",
+            "cobblestone"
+        ],
+        "thematic_annotations": [
+            "twins",
+            "backwards",
+            "opposite day",
+            "shadow government",
+            "shadow spy"
+        ]
+    },
+    "193": {
+        "image_num": 193,
+        "literal_annotations": [
+            "beast",
+            "cloud",
+            "fish",
+            "sky"
+        ],
+        "thematic_annotations": [
+            "underwater"
+        ]
+    },
+    "104": {
+        "image_num": 104,
+        "literal_annotations": [
+            "Wind",
+            "Light",
+            "Winter",
+            "Man",
+            "Cat"
+        ],
+        "thematic_annotations": [
+            "Hiking",
+            "Perseverant",
+            "Cold"
+        ]
+    },
+    "142": {
+        "image_num": 142,
+        "literal_annotations": [
+            "Paper Boats",
+            "Boy"
+        ],
+        "thematic_annotations": [
+            "Calm",
+            "Cold",
+            "Daydream",
+            "Airy"
+        ]
+    },
+    "32": {
+        "image_num": 32,
+        "literal_annotations": [
+            "snow"
+        ],
+        "thematic_annotations": [
+            "happy"
+        ]
+    },
+    "154": {
+        "image_num": 154,
+        "literal_annotations": [
+            "circular room",
+            "girl reaching up",
+            "books",
+            "toys",
+            "shelves"
+        ],
+        "thematic_annotations": [
+            "trapped",
+            "order"
+        ]
+    },
+    "12": {
+        "image_num": 12,
+        "literal_annotations": [
+            "human",
+            "curious",
+            "stone",
+            "dragon"
+        ],
+        "thematic_annotations": [
+            "trap",
+            "watch your back",
+            "you found it already"
+        ]
+    },
+    "169": {
+        "image_num": 169,
+        "literal_annotations": [
+            "clouds",
+            "large water droplet",
+            "hat",
+            "flower",
+            "log",
+            "spout"
+        ],
+        "thematic_annotations": [
+            "growth",
+            "nourishment",
+            "isolation"
+        ]
+    },
+    "95": {
+        "image_num": 95,
+        "literal_annotations": [
+            "mice"
+        ],
+        "thematic_annotations": [
+            "authority"
+        ]
+    },
+    "202": {
+        "image_num": 202,
+        "literal_annotations": [
+            "instruments",
+            "tuba",
+            "lyre",
+            "shrubbery",
+            "desert",
+            "mountain",
+            "elephants",
+            "deer",
+            "drinking",
+            "dripping",
+            "blowing"
+        ],
+        "thematic_annotations": [
+            "musicality",
+            "crowded"
+        ]
+    },
+    "82": {
+        "image_num": 82,
+        "literal_annotations": [
+            "DNA",
+            "wine",
+            "winter",
+            "cafe"
+        ],
+        "thematic_annotations": [
+            "dreamy",
+            "depressed"
+        ]
+    },
+    "43": {
+        "image_num": 43,
+        "literal_annotations": [
+            "rabbit",
+            "doll",
+            "girl",
+            "button"
+        ],
+        "thematic_annotations": [
+            "fantasy",
+            "Alice in wonderland",
+            "poor doll"
+        ]
+    },
+    "213": {
+        "image_num": 213,
+        "literal_annotations": [
+            "bird"
+        ],
+        "thematic_annotations": [
+            "murder"
+        ]
+    },
+    "207": {
+        "image_num": 207,
+        "literal_annotations": [
+            "boy",
+            "girl",
+            "gifts",
+            "many gifts",
+            ""
+        ],
+        "thematic_annotations": [
+            "selfish",
+            "rich",
+            "hoarding",
+            "gifting",
+            "offer"
+        ]
+    },
+    "52": {
+        "image_num": 52,
+        "literal_annotations": [
+            "line",
+            "cloud",
+            "pipe",
+            "kid"
+        ],
+        "thematic_annotations": [
+            "naughty",
+            "sketchy"
+        ]
+    },
+    "71": {
+        "image_num": 71,
+        "literal_annotations": [
+            "stars",
+            "sky",
+            "ladder",
+            "woman",
+            "dress",
+            "planet",
+            "universe",
+            "cosmos",
+            "far",
+            "goddess",
+            "moon"
+        ],
+        "thematic_annotations": [
+            "theology",
+            "wonder"
+        ]
+    },
+    "181": {
+        "image_num": 181,
+        "literal_annotations": [
+            "hear",
+            "plant",
+            "pot"
+        ],
+        "thematic_annotations": [
+            "pain",
+            "growth"
+        ]
+    },
+    "211": {
+        "image_num": 211,
+        "literal_annotations": [
+            "House",
+            "Child",
+            "Cage",
+            "Deck",
+            "Dock",
+            "Ladder",
+            "Bell",
+            "Lake",
+            "Trees"
+        ],
+        "thematic_annotations": [
+            "Trapped",
+            "Stuck",
+            "scared",
+            "call for help"
+        ]
+    },
+    "219": {
+        "image_num": 219,
+        "literal_annotations": [
+            "girl",
+            "dress",
+            "wings",
+            "bow",
+            "arrow",
+            "goggles",
+            "hat",
+            "safety pins",
+            "boots",
+            "envelope",
+            "letter",
+            "blood",
+            "cut"
+        ],
+        "thematic_annotations": [
+            "fly",
+            "adventure",
+            "danger",
+            "shadow",
+            "hurt"
+        ]
+    },
+    "17": {
+        "image_num": 17,
+        "literal_annotations": [
+            "book",
+            "knowledge"
+        ],
+        "thematic_annotations": [
+            "despair",
+            "homogeneity"
+        ]
+    },
+    "138": {
+        "image_num": 138,
+        "literal_annotations": [
+            "fishing",
+            "standing",
+            "boating",
+            "paddles",
+            "moon",
+            "umbrella sails",
+            "fish"
+        ],
+        "thematic_annotations": [
+            "reflections",
+            "inversion",
+            "perspectives"
+        ]
+    },
+    "134": {
+        "image_num": 134,
+        "literal_annotations": [
+            "Man",
+            "Street Light",
+            "Worker"
+        ],
+        "thematic_annotations": [
+            "Painting",
+            "Blue",
+            "Night"
+        ]
+    },
+    "182": {
+        "image_num": 182,
+        "literal_annotations": [
+            "cages",
+            "eye patch",
+            "necklace",
+            "woman",
+            "butterflies",
+            "sad",
+            "indifference"
+        ],
+        "thematic_annotations": [
+            "freedom",
+            "sight",
+            "blindness"
+        ]
+    },
+    "60": {
+        "image_num": 60,
+        "literal_annotations": [
+            "ladder",
+            "moon",
+            "star",
+            "cloud",
+            "tree",
+            ""
+        ],
+        "thematic_annotations": [
+            "dreamy",
+            "The little prince"
+        ]
+    },
+    "143": {
+        "image_num": 143,
+        "literal_annotations": [
+            "steps",
+            "lock",
+            "couple kissing",
+            "key"
+        ],
+        "thematic_annotations": [
+            "unlock love",
+            "love",
+            "unlocking"
+        ]
+    },
+    "65": {
+        "image_num": 65,
+        "literal_annotations": [
+            "",
+            "giftbox",
+            "buildings",
+            "ladder",
+            "satellite",
+            "baloon"
+        ],
+        "thematic_annotations": [
+            "freedom",
+            "escape",
+            "floating"
+        ]
+    },
+    "89": {
+        "image_num": 89,
+        "literal_annotations": [
+            "woman"
+        ],
+        "thematic_annotations": [
+            "thoughts"
+        ]
+    },
+    "8": {
+        "image_num": 8,
+        "literal_annotations": [
+            "birds",
+            "cage",
+            "face",
+            "hair",
+            "ear",
+            "grate",
+            "container",
+            "sea",
+            "water",
+            "boat",
+            "ship",
+            "beaks",
+            "hat"
+        ],
+        "thematic_annotations": [
+            "bird brain",
+            "two face",
+            "albatross soup",
+            "missing her"
+        ]
+    },
+    "15": {
+        "image_num": 15,
+        "literal_annotations": [
+            "santa"
+        ],
+        "thematic_annotations": [
+            "christmas"
+        ]
+    },
+    "217": {
+        "image_num": 217,
+        "literal_annotations": [
+            "forest",
+            "undergrounds",
+            "lights",
+            "circles"
+        ],
+        "thematic_annotations": [
+            "coexistence",
+            "connection",
+            "unity",
+            "warmth"
+        ]
+    },
+    "141": {
+        "image_num": 141,
+        "literal_annotations": [
+            "Girls",
+            "Clothes",
+            "Floor",
+            "Wall"
+        ],
+        "thematic_annotations": [
+            "Pretence",
+            "fake"
+        ]
+    },
+    "72": {
+        "image_num": 72,
+        "literal_annotations": [
+            "dress",
+            "umbrella",
+            "rain",
+            "stripping",
+            "clouds",
+            "rose"
+        ],
+        "thematic_annotations": [
+            "inversion",
+            "sadness"
+        ]
+    },
+    "130": {
+        "image_num": 130,
+        "literal_annotations": [
+            "hearts",
+            "balloon",
+            "gift",
+            "children",
+            "blush",
+            "trees",
+            "snow",
+            "cold",
+            "bench"
+        ],
+        "thematic_annotations": [
+            "love",
+            "valentine",
+            "winter"
+        ]
+    },
+    "126": {
+        "image_num": 126,
+        "literal_annotations": [
+            "girl",
+            "man",
+            "cliff",
+            "girl looking",
+            "sculpture"
+        ],
+        "thematic_annotations": [
+            "vast",
+            "sleepy",
+            "warmth"
+        ]
+    },
+    "192": {
+        "image_num": 192,
+        "literal_annotations": [
+            "house",
+            "window",
+            "wall",
+            "ladder",
+            "skirt",
+            "person",
+            "cat",
+            "toy",
+            "child",
+            "light",
+            "moths",
+            "city",
+            "clothesline"
+        ],
+        "thematic_annotations": [
+            "house",
+            "theif",
+            "sneak",
+            "cat toy",
+            "playing",
+            "climbing",
+            "light",
+            "dark",
+            "secret"
+        ]
+    },
+    "149": {
+        "image_num": 149,
+        "literal_annotations": [
+            "Insect",
+            "Sparrow",
+            "Birds",
+            "Crow",
+            "Woman",
+            "Witch"
+        ],
+        "thematic_annotations": [
+            "Despair",
+            "Gloomy"
+        ]
+    },
+    "187": {
+        "image_num": 187,
+        "literal_annotations": [
+            "hourglass",
+            "fish",
+            "bird",
+            "water"
+        ],
+        "thematic_annotations": [
+            "patience",
+            "time",
+            "invers"
+        ]
+    },
+    "66": {
+        "image_num": 66,
+        "literal_annotations": [
+            "boy",
+            "stairs",
+            "book",
+            "pages"
+        ],
+        "thematic_annotations": [
+            "Going down",
+            "between lines",
+            "reading"
+        ]
+    },
+    "113": {
+        "image_num": 113,
+        "literal_annotations": [
+            "anchor",
+            "sand",
+            "chain"
+        ],
+        "thematic_annotations": [
+            "sinking",
+            "weigh down",
+            "bottom"
+        ]
+    },
+    "153": {
+        "image_num": 153,
+        "literal_annotations": [
+            "tree",
+            "sun",
+            "seasons"
+        ],
+        "thematic_annotations": [
+            "fantasy",
+            "symmetry",
+            "cycle"
+        ]
+    }
+}

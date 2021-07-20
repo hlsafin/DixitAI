@@ -1,0 +1,216 @@
+{% load static %}
+{% load crispy_forms_tags %}
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    {% if refresh ==  True or guessed == True%}
+    <meta http-equiv="refresh" content="15" />
+    {% endif %}
+    <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
+
+    <title>Dixit AI</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/cover/">
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link href="{% static "cover.css" %}" rel="stylesheet">
+  </head>
+
+  <body class="text-center">
+    <div id="game_num_div" data={{ game_num }}></div>
+
+    <div class="cover-container d-flex p-3 mx-auto flex-column">
+      <header>
+          <div class="row">
+            {% for score in scores %}
+            <div class="col-md-3">
+              {% if score.player_name == storyteller %}
+                <p class="masthead-brand"><b>{{score.player_name}}*</b></p><br>
+              {%else%}
+                <p class="masthead-brand">{{score.player_name}}</p><br>
+              {%endif%}
+              <p class="masthead-brand">{{score.score}}</p><br>
+            </div>
+            {%endfor%}
+          <div class="buffer"></div>          
+        </div>
+      </header>
+      <main role="main" class="inner cover">
+          <div class='container-fluid'>
+            <div class="row">
+              <div class = 'col-sm-12'>
+                <div class = "row">
+                  <div class = 'col-sm-1'></div>
+                  <div class = 'col-sm-3'>
+                    <h4>Round: {{game_state.round}}</h4>
+                  </div>
+                  <div class = 'col-sm-4'></div>
+                  <div class = 'col-sm-3'>
+                    <h4>State: {{game_state.turn}}</h4>
+                  </div>
+                  <div class = 'col-sm-1'></div>
+                </div>
+                <div class="buffer"></div>
+                <div class="buffer"></div>
+                <div class="buffer"></div>
+                {% if player_role == 'Storyteller'%}
+                  <div class="form-row" style="position:center">
+                    <div class = "col-md-4"></div>
+                    <div class = "col-md-4" style="position:center">
+                      {{ form.clue|as_crispy_field }}
+                    </div>
+                    <div class = "col-md-4"></div>
+                  </div>
+                  {%endif%}
+                {% if clue %}
+                  <h3>Clue: {{clue}}</h3>
+                {%endif%}
+                <div class="buffer"></div>
+                <div class="buffer"></div>
+                <div class="buffer"></div>
+                <form action = '' method = 'post'>
+                {% csrf_token %}
+                {% if decoy_imgs %}
+                  <div class="form-row">
+                    <div style="position:center">
+                      <div class = "row">
+                        {% if refresh == False or guessed == True%}
+                        <h3 class="masthead-brand">Guess Storyteller Card: </h3><br>
+                        {%else%}
+                        <h3 class="masthead-brand">Waiting for responses from: </h3>
+                      </div>
+                      {%endif%}
+                      {% if waiting == False %}
+                        {% for img in decoy_imgs %}
+                          {% if guessed == True %}
+                            <img src="data:image/png;base64,{{ img.img_data }}" style="max-height:300px;max-width:200px;height:auto;width:auto;padding-left:10px;"/>
+                          {%else%}
+                            <button type=submit value={{ img.img_num }} class="imgButton"><img src="data:image/png;base64,{{ img.img_data }}" style="max-height:300px;max-width:200px;height:auto;width:auto;padding-left:10px" /></button>
+                          {%endif%}
+                        {%endfor%}
+                      {%else%}
+                        {% for img in decoy_imgs %}
+                          <p>{{ img }}</p>
+                        {%endfor%}
+                      {%endif%}
+                    </div>
+                  </div>
+                  <div class="form-row">
+                    <div class = "row">
+                      <div class = "col-md-12">
+                      <h4 class="masthead-brand">My Hand: </h4>
+                      </div>
+                    </div>
+                    <div class="buffer"></div>
+                    <div style="position:center">
+                      {% for img in imgs %}
+                        <img src="data:image/png;base64,{{ img.img_data }}" style="max-height:300px;max-width:200px;height:auto;width:auto;padding-left:10px" />
+                      {%endfor%}
+                    </div>
+                  </div>
+                  {% else %}
+                  <div class = "form-row">
+                    <div class = "col-md-12">
+                      <h4 class="masthead-brand">My Hand: </h4>
+                      </div>
+                    <div style="position:center">
+                      {% for img in imgs %}
+                        <button type=submit value={{ img.img_num }} class="imgButton"><img src="data:image/png;base64,{{ img.img_data }}" style="max-height:300px;max-width:200px;height:auto;width:auto;padding-left:10px" /></button>
+                      {%endfor%}
+                  {% endif %}
+                  </div>
+                  </div>
+              </form>
+            </div>
+          </div>
+          </div>
+        </main>
+        <div class="buffer"></div>
+      <div class="buffer"></div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script  src="https://code.jquery.com/jquery-3.6.0.min.js"  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="  crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+    // $('#hidden_div').css('display','none');
+      function getCookie(name) {
+          var cookieValue = null;
+          if (document.cookie && document.cookie != '') {
+                var cookies = document.cookie.split(';');
+          for (var i = 0; i < cookies.length; i++) {
+               var cookie = jQuery.trim(cookies[i]);
+          // Does this cookie string begin with the name we want?
+          if (cookie.substring(0, name.length + 1) == (name + '=')) {
+            cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+              break;
+             }
+          }
+          }
+        return cookieValue;
+      }
+
+      $("button").click(function (e) {
+        e.preventDefault();
+        // alert("At button event handler")
+        imageButton = $(this);
+        // alert(imageButton.val())
+
+        //Prepare csrf token
+        var csrftoken = getCookie('csrftoken');
+        // alert(csrftoken)
+        // alert(document.getElementById("clue_input").value)
+        // alert(document.getElementById("game_num_div").getAttribute('data'))
+        try{
+          var clue = document.getElementById("id_clue").value
+        }catch(err){
+           var clue = ''
+        }
+        
+
+        $.ajax({
+        url : "", // the endpoint
+        type : "POST", // http method
+        data : { 
+          csrfmiddlewaretoken : csrftoken,
+          img_num : $(this).val(),
+          clue: clue,
+          game_num: document.getElementById("game_num_div").getAttribute('data'),
+         }, // data sent with the post request
+
+        // handle a successful response
+        success : function(html) {
+            location.reload() // log the returned json to the console
+            console.log("success"); // another sanity check
+        },
+
+        // handle a non-successful response
+        error : function(xhr,errmsg,err) {
+            $('#results').html("<div class='alert-box alert radius' data-alert>Oops! We have encountered an error: "+errmsg+
+                " <a href='#' class='close'>&times;</a></div>"); // add the error to the dom
+            console.log(xhr.status + ": " + xhr.responseText); // provide a bit more info about the error to the console
+        }
+         });
+      });
+
+
+    </script>
+
+    <script src="../../assets/js/vendor/popper.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>

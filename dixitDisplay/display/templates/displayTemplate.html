@@ -1,0 +1,106 @@
+
+{% load static %}
+{% load crispy_forms_tags %}
+<!doctype html>
+
+<html lang="en">
+  <head>
+
+
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
+
+    <title>Dixit AI</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/cover/">
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link href="{%static "cover.css" %}" rel="stylesheet">
+  </head>
+
+  <body class="text-center">
+
+    <div class="cover-container d-flex p-3 mx-auto flex-column">
+      <header>
+        <div class="inner">
+          <h1 class="masthead-brand">DixitAI Clues Demo</h1>
+        </div>
+      </header>
+      <div class="buffer"></div>
+      <div class="buffer"></div>
+      <main role="main" class="inner cover">
+          <div class='container-fluid'>
+            <div class="row">
+              <div class = 'col-sm-12'>
+                {% csrf_token %}
+                    <div class="form-group col-sm-12">
+                      <img src="data:image/png;base64,{{ image }}" style="max-height:600px;max-width:900px;height:auto;width:auto;" />
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+              <div class = 'col-sm-12'>
+                {% csrf_token %}
+                    <div class="form-group col-sm-12">
+                      <p>{{annotations}}</p>
+                      <p>Filtered Clarifai annotations: {{clarifai}}</p>
+                      <p>Tags used for clue generation: {{tags}}</p>
+                      <p>Synonyms found: {{synonyms}}</p>
+                    </div>
+                </div>
+            </div>
+              <div class="row">
+                <div class = 'col-sm-12'>
+                  <form id='myForm' method="post">
+                    {% csrf_token %}
+                    <div class="form-row">
+                      <div class='form-group col-sm-12'>
+                        <button id="submitButton" type="submit" class="btn btn-lg btn-primary">Show Another</button>
+                      </div>
+                    </div>
+                </form>
+              </div>
+            </div>
+            <div class="row">
+              <div class = 'col-sm-12'>
+                  <!-- <div class="form-row">
+                    <div style="position:center">
+                    <img src="data:image/png;base64,{{ hand1 }}" style="max-height:300px;max-width:200px;height:auto;width:auto;padding-left= 10px" />
+                    <img src="data:image/png;base64,{{ hand2 }}" style="max-height:300px;max-width:200px;height:auto;width:auto;padding-left= 10px" />
+                    <img src="data:image/png;base64,{{ hand3 }}" style="max-height:300px;max-width:200px;height:auto;width:auto;padding-left= 10px" />
+                    <img src="data:image/png;base64,{{ hand4 }}" style="max-height:300px;max-width:200px;height:auto;width:auto;padding-left= 10px" />
+                    <img src="data:image/png;base64,{{ hand5 }}" style="max-height:300px;max-width:200px;height:auto;width:auto;padding-left= 10px" />
+                    </div>
+                  </div> -->
+              </form>
+            </div>
+          </div>
+          </div>
+        </main>
+        <div class="buffer"></div>
+      <div class="buffer"></div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+    <script src="../../assets/js/vendor/popper.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>
